@@ -239,3 +239,6 @@ This repository serves as the official landing page for SuperBeam. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SuperBeam today!**
+
+---
+**Last updated:** 2026-09-10 10:36:40 UTC
